@@ -11,7 +11,7 @@
 </div>
 
 <div>
-  <img align="right" src="https://github.com/e-patricio/e-patricio/assets/140465756/03bb3fe8-f806-4dff-bf1d-aa033db7bd80)" width="300" height="300"  border="0"></a>
+  <img align="right" src="https://github.com/e-patricio/e-patricio/assets/140465756/b939827b-ce39-49ff-a087-b805fb3a3c98" width="300" height="300"  border="0"></a>
 </div>
 
 ###
