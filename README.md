@@ -1,7 +1,7 @@
 ### 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98FB98&size=25&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Duds!+👋✨)](https://git.io/typing-svg)
 
-- 📚 Currently, I'm studying Computer Science at PUCRS
+- 📚 Currently, I'm studying Computer Science @ PUCRS
 - 🌱 Also, focusing in these tools:
 
 <div align="left">
@@ -19,6 +19,3 @@
  <a href="https://github.com/e-patricio">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=e-patricio&show_icons=true&theme=dark">
  </div>
-
-###
-- 💌 How to reach me: e.patricio@edu.pucrs.br
