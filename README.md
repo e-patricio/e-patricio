@@ -7,11 +7,12 @@
 <div align="left">
   <img width="25" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
   <img src="https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 <div>
-  <img align="right" src="https://github.com/e-patricio/e-patricio/assets/140465756/c236854a-86c6-47d6-a971-c72d86be554b" width="300" height="300"  border="0"></a>
+  <img align="right" src="https://github.com/e-patricio/e-patricio/assets/140465756/5a4978fc-a0c0-4c6d-8f2b-51fd3089543e" width="300" height="300"  border="0"></a>
 
   
 </div>
