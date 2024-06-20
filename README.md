@@ -20,5 +20,5 @@
 ###
 <div align="left">
  <a href="https://github.com/e-patricio">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=e-patricio&show_icons=true&theme=dracula">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=e-patricio&show_icons=true&theme=rose">
  </div>
