@@ -12,9 +12,7 @@
 </div>
 
 <div>
-  <img align="right" src="https://github.com/e-patricio/e-patricio/assets/140465756/5a4978fc-a0c0-4c6d-8f2b-51fd3089543e" width="300" height="300"  border="0"></a>
-
-  
+  <img align="right" src="https://github.com/e-patricio/e-patricio/assets/140465756/a77e26fc-3b03-44ce-a257-f220406d743b" width="300" height="300"  border="0"></a>
 </div>
 
 ###
