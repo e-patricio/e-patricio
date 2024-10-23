@@ -7,8 +7,9 @@
 <div align="left">
   <img width="25" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-
   <img src="https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/CSharp-76B05E?style=for-the-badge&logo=sharp&logoColor=white">
+  <!-- img src="https://img.shields.io/badge/ASP.NET-A77BCA?style=for-the-badge&logo=dotnet&logoColor=white" -->
 </div>
 
 <div>
