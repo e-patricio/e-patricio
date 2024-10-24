@@ -20,4 +20,5 @@
 <div align="left">
  <a href="https://github.com/e-patricio">
   <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=e-patricio&show_icons=true&theme=rose"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e-patricio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose&hide_border=false&order=2" height="175" alt="languages graph"/>
  </div>
